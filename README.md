@@ -45,7 +45,7 @@
 
 ## ◈ About
 
-**2+ years** of turning coffee and YAML into infrastructure that actually works —
+**1.5 years** of turning coffee and YAML into infrastructure that actually works —
 building systems that are **self-healing, self-scaling**, and occasionally self-explaining.
 
 I treat infrastructure like art. Every resource has intention. Every module has elegance.
@@ -54,7 +54,7 @@ Every pipeline should be so clean it **runs itself at 3am without waking anyone 
 Currently obsessing over **GitOps patterns**, Kubernetes cost visibility,
 and that rare, beautiful moment when the best alert is the one you **never receive**.
 
-`AWS` · `Azure` · `Kubernetes` · `Terraform` · `CI/CD` · `DevSecOps`
+`AWS` · `Kubernetes` · `Terraform` · `CI/CD` 
 
 ---
 
@@ -180,15 +180,15 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shefalihub&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefalihub&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shefalihub&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
 
 </div>
 
