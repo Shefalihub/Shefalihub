@@ -190,13 +190,13 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 <td>
 
 <!-- 👇 REPLACE YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shefalihub&show_icons=true&theme=dark&bg_color=0d1320&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=f97316&border_radius=8&count_private=true&hide_border=false&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=[Shefalihub](https://github.com/Shefalihub)&show_icons=true&theme=dark&bg_color=0d1320&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=f97316&border_radius=8&count_private=true&hide_border=false&include_all_commits=true" />
 
 </td>
 <td>
 
 <!-- 👇 REPLACE YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefalihub&theme=dark&bg_color=0d1320&title_color=f97316&text_color=e2e8f0&border_color=f97316&border_radius=8&layout=compact&langs_count=6&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Shefalihub](https://github.com/Shefalihub)&theme=dark&bg_color=0d1320&title_color=f97316&text_color=e2e8f0&border_color=f97316&border_radius=8&layout=compact&langs_count=6&hide_border=false" />
 
 </td>
 </tr>
@@ -207,7 +207,7 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 <div align="center">
 
 <!-- 👇 REPLACE YOUR_GITHUB_USERNAME — streak stats (nirzak mirror, actively maintained) -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shefalihub&theme=dark&background=0d1320&border=f97316&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=8&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=[Shefalihub](https://github.com/Shefalihub)&theme=dark&background=0d1320&border=f97316&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=8&hide_border=false" />
 
 </div>
 
