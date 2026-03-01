@@ -183,7 +183,7 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
   ════════════════════════════════════════════════════
 -->
 
-<div align="center">
+<!-- <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -202,14 +202,14 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 </tr>
 </table>
 
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <!-- 👇 REPLACE YOUR_GITHUB_USERNAME — streak stats (nirzak mirror, actively maintained) -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=[Shefalihub](https://github.com/Shefalihub)&theme=dark&background=0d1320&border=f97316&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=8&hide_border=false" />
 
-</div>
+</div> -->
 
 <br/>
 
