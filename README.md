@@ -177,62 +177,37 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 ## 📈 GitHub Activity
 
 
- <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td>
-
-<!-- 👇 REPLACE YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=[Shefalihub](https://github.com/Shefalihub)&show_icons=true&theme=dark&bg_color=0d1320&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=f97316&border_radius=8&count_private=true&hide_border=false&include_all_commits=true" />
-
-</td>
-<td>
-
-<!-- 👇 REPLACE YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Shefalihub](https://github.com/Shefalihub)&theme=dark&bg_color=0d1320&title_color=f97316&text_color=e2e8f0&border_color=f97316&border_radius=8&layout=compact&langs_count=6&hide_border=false" />
-
-</td>
-</tr>
-</table>
-
-</div> 
+<!-- ⚠️ IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 3 image URLs below -->
 
 <div align="center">
 
-<!-- 👇 REPLACE YOUR_GITHUB_USERNAME — streak stats (nirzak mirror, actively maintained) -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=[Shefalihub](https://github.com/Shefalihub)&theme=dark&background=0d1320&border=f97316&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=8&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Shefalihub&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shefalihub&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
 
-</div> 
-
-<br/>
+</div>
 
 <div align="center">
 
-| 🖥️ Terminal Log | `shefali@cloud ~ %` |
-|:---|:---|
-| **Top Language** | `HCL / Terraform` — *the art of infrastructure* |
-| **Most Active Time** | `02:00 – 04:00 UTC` — *when pipelines don't judge* |
-| **Commit Style** | `fix: actually fix it this time` |
-| **Favourite Command** | `terraform plan` → stare → `terraform apply` → pray |
-| **Status** | `✓ All systems green. Zero manual steps.` |
+<img src="https://nirzak-streak-stats.vercel.app/?user=https://github.com/Shefalihub&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
 
 </div>
 
 <div align="center">
 
 ```
-  shefali@cloud ~ % gh langs --visual
+shefali@cloud ~ % gh activity --year=2025
 
   Terraform / HCL  ████████████████████░░░░  82%
   YAML / Helm      ██████████████████░░░░░░  75%
   Shell / Bash     █████████████████░░░░░░░  68%
   Python           █████████████░░░░░░░░░░░  55%
   Dockerfile       ███████████░░░░░░░░░░░░░  45%
+
+  ✓ All systems green. Pipeline running. Zero manual steps.
 ```
 
 </div>
-
 
 
 ---
