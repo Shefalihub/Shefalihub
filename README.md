@@ -65,23 +65,29 @@ and that rare, beautiful moment when the best alert is the one you **never recei
 <td width="50%">
 
 **🔄 Jenkins × GitHub Actions Hybrid Pipeline**
-```
-● IN PROGRESS
-```
+
+`● IN PROGRESS`
+
 Multi-stage CI/CD with parallel testing, SAST/DAST scanning, and zero-downtime blue-green deploys on Kubernetes.
 
-`Jenkins` `GitHub Actions` `SonarQube` `Trivy` `Docker`
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%">
 
 **🏗️ Terraform AWS Module Library**
-```
-● IN PROGRESS
-```
+
+`● IN PROGRESS`
+
 Reusable, opinionated Terraform modules for VPC, EKS, RDS and IAM — enterprise landing zone ready.
 
-`Terraform` `AWS` `Terragrunt` `Terratest`
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-844FBA?style=flat-square)
 
 </td>
 </tr>
@@ -89,23 +95,27 @@ Reusable, opinionated Terraform modules for VPC, EKS, RDS and IAM — enterprise
 <td width="50%">
 
 **📊 Kubernetes Observability Stack**
-```
-● IN PROGRESS
-```
+
+`● IN PROGRESS`
+
 Prometheus + Grafana with custom SLO/SLA alerting and cost-per-namespace dashboards.
 
-`Prometheus` `Grafana` `Helm` `Loki` `AlertManager`
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square)
 
 </td>
 <td width="50%">
 
 **🔀 GitOps: ArgoCD + Atlantis**
-```
-○ PLANNED
-```
+
+`○ PLANNED`
+
 Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. Infra changes via pull request only.
 
-`ArgoCD` `Atlantis` `GitOps` `Kubernetes`
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </td>
 </tr>
@@ -146,7 +156,7 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square)
-![Istio](https://img.shields.io/badge/Istio_(learning)-466BB0?style=flat-square&logo=istio&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -159,24 +169,26 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square)
-![YAML](https://img.shields.io/badge/YAML_(professionally)-CB171E?style=flat-square)
-![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat-square&logo=go&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
 ## 📈 GitHub Activity
 
+<!-- ⚠️ IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 3 image URLs below -->
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shefali-chaudhary&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefali-chaudhary&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shefali-chaudhary&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
 
 </div>
 
@@ -200,11 +212,13 @@ shefali@cloud ~ % gh activity --year=2025
 
 ## 🤝 Connect
 
+<!-- ⚠️ Replace the LinkedIn URL and Email with your actual details -->
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefali-chaudhary)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shefali.chaudhary@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shefali-chaudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 *Let's talk cloud architecture, pipelines, or why your infra costs too much* ☁️
 
@@ -225,4 +239,3 @@ The cluster is my gallery.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-
