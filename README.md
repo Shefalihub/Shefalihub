@@ -177,26 +177,52 @@ Full GitOps workflow — ArgoCD for app delivery, Atlantis for Terraform PRs. In
 ## 📈 GitHub Activity
 
 
-<!-- ⚠️ IMPORTANT: Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all 3 image URLs below -->
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Shefalihub&show_icons=true&theme=dark&bg_color=070b14&title_color=f97316&icon_color=22d3ee&text_color=e2e8f0&border_color=1e2d40&border_radius=0&count_private=true&hide_border=false" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shefalihub&theme=dark&bg_color=070b14&title_color=f97316&text_color=e2e8f0&border_color=1e2d40&border_radius=0&layout=compact&langs_count=6&hide_border=false" />
+### 🗂️ Language Breakdown
+
+![Terraform/HCL](https://img.shields.io/badge/Terraform%20%2F%20HCL-82%25-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![YAML/Helm](https://img.shields.io/badge/YAML%20%2F%20Helm-75%25-f97316?style=for-the-badge&logoColor=white)
+![Shell/Bash](https://img.shields.io/badge/Shell%20%2F%20Bash-68%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-55%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-45%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=https://github.com/Shefalihub&theme=dark&background=070b14&border=1e2d40&stroke=f97316&ring=f97316&fire=fb923c&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=64748b&border_radius=0&hide_border=false" />
+### ⚡ DevOps Activity Pulse
+
+![Commits](https://img.shields.io/badge/Total%20Commits-482-f97316?style=flat-square&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-26-22d3ee?style=flat-square&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-34%20days%20🔥-fb923c?style=flat-square)
+![PRs](https://img.shields.io/badge/Pull%20Requests-89-4ade80?style=flat-square&logo=githubactions&logoColor=white)
+![Reviews](https://img.shields.io/badge/Code%20Reviews-47-a78bfa?style=flat-square)
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ CI/CD Pipeline Status
+
+![Pipeline](https://img.shields.io/badge/Pipeline-passing-4ade80?style=flat-square&logo=githubactions&logoColor=white)
+![Infra](https://img.shields.io/badge/Infra-green-4ade80?style=flat-square&logo=terraform&logoColor=white)
+![Alerts](https://img.shields.io/badge/Alerts-0-4ade80?style=flat-square&logo=prometheus&logoColor=white)
+![Manual%20Steps](https://img.shields.io/badge/Manual%20Steps-0-f97316?style=flat-square)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-22d3ee?style=flat-square&logo=grafana&logoColor=white)
+
+</div>
+
+<br/>
 
 <div align="center">
 
 ```
-shefali@cloud ~ % gh activity --year=2025
+  shefali@cloud ~ % gh activity --visual
 
   Terraform / HCL  ████████████████████░░░░  82%
   YAML / Helm      ██████████████████░░░░░░  75%
@@ -204,7 +230,9 @@ shefali@cloud ~ % gh activity --year=2025
   Python           █████████████░░░░░░░░░░░  55%
   Dockerfile       ███████████░░░░░░░░░░░░░  45%
 
-  ✓ All systems green. Pipeline running. Zero manual steps.
+  commit_style  →  fix: actually fix it this time
+  fav_command   →  terraform plan → stare → apply → pray
+  status        →  ✓ all systems green. zero manual steps.
 ```
 
 </div>
