@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1400&color=22D3EE&center=true&vCenter=true&width=720&lines=🎨+The+pipeline+is+my+canvas...+the+commit%2C+my+brushstroke.;🚀+Ship+fast.+Rollback+faster.+Sleep+all+night.;☁️+AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;🔒+If+it%27s+not+in+Git+—+it+doesn%27t+exist.;🔕+Best+alert+%3D+the+one+you+never+receive." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1400&color=22D3EE&center=true&vCenter=true&width=720&lines=The+pipeline+is+my+canvas...+the+commit%2C+my+brushstroke.;Ship+fast.+Rollback+faster.+Sleep+all+night.;AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;If+it+is+not+in+Git+—+it+does+not+exist.;Best+alert+%3D+the+one+you+never+receive." />
 
 <br/>
 
