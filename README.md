@@ -8,12 +8,26 @@
 
 ---
 
+
 <!-- BADGES ROW -->
-![Experience](https://img.shields.io/badge/⚡_EXPERIENCE-2%2B_Years-22d3ee?style=flat-square&labelColor=0d1117)
-![Cloud](https://img.shields.io/badge/☁️_CLOUD-AWS_%7C_Azure-38bdf8?style=flat-square&labelColor=0d1117)
+<div align="center">
+
+![Experience](https://img.shields.io/badge/⚡_EXPERIENCE-2%2B_Years_in_DevOps-22d3ee?style=flat-square&labelColor=0d1117)
+![Role](https://img.shields.io/badge/🧠_ROLE-DevOps_%26_Cloud_Engineer-a78bfa?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_BASED_IN-Pune%2C_India-f472b6?style=flat-square&labelColor=0d1117)
+
+![Cloud](https://img.shields.io/badge/☁️_CLOUD-AWS_%7C_Azure_%7C_GCP-38bdf8?style=flat-square&labelColor=0d1117)
+![IaC](https://img.shields.io/badge/🏗️_IaC-Terraform_%7C_Ansible-84cc16?style=flat-square&labelColor=0d1117)
+![Containers](https://img.shields.io/badge/🐳_CONTAINERS-Docker_%7C_Kubernetes_%7C_Helm-2496ed?style=flat-square&labelColor=0d1117)
+
+![CI/CD](https://img.shields.io/badge/🔄_CI%2FCD-Jenkins_%7C_GitHub_Actions-f97316?style=flat-square&labelColor=0d1117)
+![Security](https://img.shields.io/badge/🔐_SECURITY-SonarQube_%7C_Trivy-ef4444?style=flat-square&labelColor=0d1117)
+![Observability](https://img.shields.io/badge/📊_OBSERVABILITY-Datadog_%7C_Prometheus_%7C_Grafana-f59e0b?style=flat-square&labelColor=0d1117)
+
 ![Uptime](https://img.shields.io/badge/✅_UPTIME-99.9%25-4ade80?style=flat-square&labelColor=0d1117)
-![Downtime](https://img.shields.io/badge/🎯_PROD_INCIDENTS-Zero_Manual_Fixes-4ade80?style=flat-square&labelColor=0d1117)
-# ![Location](https://img.shields.io/badge/📍_PUNE-India-f472b6?style=flat-square&labelColor=0d1117)
+![Incidents](https://img.shields.io/badge/🎯_PROD_INCIDENTS-Zero_Unplanned_Downtime-4ade80?style=flat-square&labelColor=0d1117)
+![Automation](https://img.shields.io/badge/🤖_MANUAL_STEPS-Zero-4ade80?style=flat-square&labelColor=0d1117)
+
 
 </div>
 
