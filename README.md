@@ -4,7 +4,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Shefali%20Chaudhary&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Infrastructure%20Automator&descSize=17&descAlignY=60&descColor=a8d8ea)](https://github.com/Shefalihub)
 
 <!-- TYPING BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=🚀+Shipping+infrastructure+at+the+speed+of+git+push;☁️+AWS+%7C+Kubernetes+%7C+Terraform+%7C+GitOps;🔐+DevSecOps+—+security+baked+in%2C+not+bolted+on;📊+SLOs%2C+alerts%2C+dashboards+—+observability+first;🤖+If+it+can+be+automated%2C+it+will+be+automated)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=🚀+Building+pipelines+that+deploy+while+others+sleep;☁️+AWS+%7C+Azure+%7C+GCP+—+multi-cloud+is+my+default;🐳+Kubernetes+clusters+managed%2C+Helm+charts+crafted;⚙️+Jenkins+pipelines+%7C+CI%2FCD+%7C+zero-downtime+deploys;🔐+SonarQube+%2B+Trivy+—+shift-left+security+every+PR;📊+Datadog+%7C+Prometheus+%7C+Grafana+—+I+see+everything;🤖+Ansible+automation+%7C+Bash+scripting+%7C+infra+as+code)](https://git.io/typing-svg)
 
 ---
 
@@ -13,7 +13,7 @@
 ![Cloud](https://img.shields.io/badge/☁️_CLOUD-AWS_%7C_Azure-38bdf8?style=flat-square&labelColor=0d1117)
 ![Uptime](https://img.shields.io/badge/✅_UPTIME-99.9%25-4ade80?style=flat-square&labelColor=0d1117)
 ![Downtime](https://img.shields.io/badge/🎯_PROD_INCIDENTS-Zero_Manual_Fixes-4ade80?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_PUNE-India-f472b6?style=flat-square&labelColor=0d1117)
+# ![Location](https://img.shields.io/badge/📍_PUNE-India-f472b6?style=flat-square&labelColor=0d1117)
 
 </div>
 
