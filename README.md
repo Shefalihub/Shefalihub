@@ -10,7 +10,7 @@
 
 
 <!-- BADGES ROW -->
-<div align="center">
+<!--<div align="center">
 
 ![](https://img.shields.io/badge/DevOps_Engineer-2%2B_Years-ffffff?style=flat-square&labelColor=161b22&color=161b22)
 &nbsp;
@@ -39,6 +39,23 @@
 ![](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=F46800)
 &nbsp;
 ![](https://img.shields.io/badge/SonarQube-161b22?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
+
+</div> -->
+
+<!-- TECH STACK -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins&perline=8" />
+<img src="https://skillicons.dev/icons?i=bash,python,linux,git,grafana,prometheus,github&perline=8" />
+
+<br/>
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white&labelColor=0d1117)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white&labelColor=0d1117)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white&labelColor=0d1117)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white&labelColor=0d1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white&labelColor=0d1117)
 
 </div>
 
