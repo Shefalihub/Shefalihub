@@ -64,9 +64,9 @@
 ---
 
 <!-- SKILL ICONS -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,bash,python,linux,git,grafana,prometheus,github&perline=8" />
-</div>
+</div> -->
 
 ---
 
