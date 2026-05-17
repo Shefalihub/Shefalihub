@@ -12,22 +12,33 @@
 <!-- BADGES ROW -->
 <div align="center">
 
-![Experience](https://img.shields.io/badge/⚡_EXPERIENCE-2%2B_Years_in_DevOps-22d3ee?style=flat-square&labelColor=0d1117)
-![Role](https://img.shields.io/badge/🧠_ROLE-DevOps_%26_Cloud_Engineer-a78bfa?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_BASED_IN-Pune%2C_India-f472b6?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/DevOps_Engineer-2%2B_Years-ffffff?style=flat-square&labelColor=161b22&color=161b22)
+&nbsp;
+![](https://img.shields.io/badge/📍_Pune,_India-161b22?style=flat-square&labelColor=161b22&color=161b22)
+&nbsp;
+![](https://img.shields.io/badge/Open_to_Opportunities-22d3ee?style=flat-square&labelColor=161b22&color=0e7490)
 
-![Cloud](https://img.shields.io/badge/☁️_CLOUD-AWS_%7C_Azure_%7C_GCP-38bdf8?style=flat-square&labelColor=0d1117)
-![IaC](https://img.shields.io/badge/🏗️_IaC-Terraform_%7C_Ansible-84cc16?style=flat-square&labelColor=0d1117)
-![Containers](https://img.shields.io/badge/🐳_CONTAINERS-Docker_%7C_Kubernetes_%7C_Helm-2496ed?style=flat-square&labelColor=0d1117)
+<br/><br/>
 
-![CI/CD](https://img.shields.io/badge/🔄_CI%2FCD-Jenkins_%7C_GitHub_Actions-f97316?style=flat-square&labelColor=0d1117)
-![Security](https://img.shields.io/badge/🔐_SECURITY-SonarQube_%7C_Trivy-ef4444?style=flat-square&labelColor=0d1117)
-![Observability](https://img.shields.io/badge/📊_OBSERVABILITY-Datadog_%7C_Prometheus_%7C_Grafana-f59e0b?style=flat-square&labelColor=0d1117)
-
-![Uptime](https://img.shields.io/badge/✅_UPTIME-99.9%25-4ade80?style=flat-square&labelColor=0d1117)
-![Incidents](https://img.shields.io/badge/🎯_PROD_INCIDENTS-Zero_Unplanned_Downtime-4ade80?style=flat-square&labelColor=0d1117)
-![Automation](https://img.shields.io/badge/🤖_MANUAL_STEPS-Zero-4ade80?style=flat-square&labelColor=0d1117)
-
+![](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=FF9900)
+&nbsp;
+![](https://img.shields.io/badge/Azure-161b22?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+&nbsp;
+![](https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=4285F4)
+&nbsp;
+![](https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=326CE5)
+&nbsp;
+![](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED)
+&nbsp;
+![](https://img.shields.io/badge/Terraform-161b22?style=flat-square&logo=terraform&logoColor=844FBA)
+&nbsp;
+![](https://img.shields.io/badge/Jenkins-161b22?style=flat-square&logo=jenkins&logoColor=D24939)
+&nbsp;
+![](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=E6522C)
+&nbsp;
+![](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=F46800)
+&nbsp;
+![](https://img.shields.io/badge/SonarQube-161b22?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
 
 </div>
 
